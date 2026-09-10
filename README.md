@@ -2,7 +2,7 @@
 
 Software and data work from South Africa. I build products that have to stand up in production: ledgers, operations desks, and company sites — not notebooks that stop at a chart.
 
-NQF Level 5 in Systems Development. Self-taught on the ML and quant side. Python, TypeScript, SQL, and whatever the job actually needs.
+Currently studying a **Bachelor of Business Information Systems**. NQF Level 5 in Systems Development. Self-taught on the ML and quant side. Python, TypeScript, SQL, and whatever the job actually needs.
 
 ## Now
 
