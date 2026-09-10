@@ -1,32 +1,21 @@
-# 👋 Hi, I'm Robin
+# Robin Malatji
 
-I'm a **self-taught data scientist** exploring the exciting intersections of **Machine Learning**, **Quantitative Development**, and **Software Engineering**. I love solving problems with data, building intelligent systems, and continuously learning how to bring models to life through code.
+Software and data work from South Africa. I build products that have to stand up in production: ledgers, operations desks, and company sites — not notebooks that stop at a chart.
 
----
-## 🔍 About Me
+NQF Level 5 in Systems Development. Self-taught on the ML and quant side. Python, TypeScript, SQL, and whatever the job actually needs.
 
-- 📊 Passionate about data science, statistical modeling, and ML pipelines  
-- 🧠 Currently deep-diving into **quantitative finance**, algorithmic trading, and **machine learning applications** in markets  
-- 💻I have a **background in software development**, with an **NQF Level 5 in Systems Development** obtained through a learnership program   
-- 🛠️ Building projects using Python, SQL, Pandas, Numpy, Matplotlib, Scikit-Learn, and Jupyter — with occasional dives into JavaScript and cloud tools  
-- 📚 Self-learner mindset: I believe in learning by doing and sharing what I build
+## Now
 
----
-## 🧪 What I’m Working On
+- **[FinSentinel SA](https://github.com/RobinMalatji/finsentinel)** — financial intelligence desk for fraud, AML, and ZAR payment rails. Live: [finsentinel-sa.vercel.app](https://finsentinel-sa.vercel.app)
+- **[Mohao Tech](https://github.com/RobinMalatji/mohao-tech)** — studio / company site
+- Client and operations systems: [J Hlongwane Tours](https://github.com/RobinMalatji/J-Hlongwane-Tours), [LeeCreative Production](https://github.com/RobinMalatji/leecreative-production)
 
-- 🧮 Quant strategy backtesting and risk analytics using Python & pandas  
-- 🤖 ML models for time-series forecasting, clustering, and classification  
-- 🛠️ End-to-end data projects — from scraping and cleaning to modeling and visualization  
+## Stack
 
-## 📂 Featured Projects
+Python · FastAPI · Next.js · TypeScript · PostgreSQL · pandas · scikit-learn · XGBoost · Docker · Vercel
 
-> 🚧 Check back soon — I’m currently working on documenting and sharing my best projects here!
+Earlier quant and ML notebooks: [Trading](https://github.com/RobinMalatji/Trading), [Machine-Learning-Predictor](https://github.com/RobinMalatji/Machine-Learning-Predictor), [Data-Science](https://github.com/RobinMalatji/Data-Science)
 
----
+## Contact
 
-## 📫 Let’s Connect
-
-- ✉️ Open to collaboration, learning opportunities, and feedback
----
-> "Code, like data, tells a story — I'm here to tell mine one project at a time."
-
+GitHub issues on the repos above. Based in South Africa.
